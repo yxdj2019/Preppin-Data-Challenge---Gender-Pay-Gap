@@ -1,6 +1,6 @@
 # Preppin-Data-Challenge---Gender-Pay-Gap
 
-using PYTHON AND SQL to complete the Preppin' Data Challenge -- Gender Pay Gap
+using Python and SQL respectively to complete the Preppin' Data Challenge -- Gender Pay Gap
 
 This challenge is from Tableau weekly Preppin' Data blog.
 
